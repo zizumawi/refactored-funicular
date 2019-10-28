@@ -1,2 +1,4 @@
 Hello, git
-This is mawi 
+This is mawi
+updating readme with new information 
+
